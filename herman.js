@@ -428,7 +428,7 @@ switch (command) {
 //࿇ ══━━━━━━━━━━━━━━━━━━━━✥SUBSCRIBE HERMAN CHANEL✥━━━━━━━━━━━━━━━━━━━━━━━━══ ࿇
 
 case 'menu':
-fakeyt`「 Wait Kak... 」`
+fakeyt(`WAIT KAK!!`)
 teks = `HAI SAYA ${botname} 𓅂
 
 ┌─❏ *Info Bot* 
